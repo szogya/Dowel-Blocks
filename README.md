@@ -13,6 +13,9 @@ The "project" based on the <a href="https://github.com/kieraneglin/Thumper-Block
 <br>
 Please note, I have some engeenering / IT background, but not a professional.
 
+<img src="https://github.com/szogya/Dowel-Blocks/blob/main/Assets/Dowel_Block_Side_And_Front_View.png" alt="Assembled Dowel Block" style="max-width: 100%;">
+<img src="https://github.com/szogya/Dowel-Blocks/blob/main/Assets/Dowel_Block_Opened_View.png" alt="Opened View" style="max-width: 100%;">
+
 <h2>BOM</h2>
 <a id="user-content-which-block" class="anchor" aria-label="Permalink: BOM" href="#BOM"></a>
 <b>On a per-block base</b>
