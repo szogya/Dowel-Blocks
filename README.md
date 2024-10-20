@@ -1,4 +1,4 @@
-<h1>ERCF Thumper Blocks (work-in-progress)</h1>
+<h1>ERCF v2 Dowel Blocks (work-in-progress)</h1>
 
 <h2 tabindex="-1" class="heading-element" dir="auto">Table of Contents</h2>
 <a id="user-content-which-block" class="anchor" aria-label="Permalink: Table of Contents" href="#table-of-contents"></a>
