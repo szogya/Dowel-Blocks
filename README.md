@@ -32,3 +32,5 @@ Please note, I have some engeenering / IT background, but I'm not a professional
 <ul>
         <li>2x 20x3mm metal dowels</li>
 </ul>
+
+<img src="https://github.com/szogya/Dowel-Blocks/blob/main/Assets/Dowel_Block_Supports.png" alt="Opened View" style="max-width: 100%;">
